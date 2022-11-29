@@ -1,0 +1,4359 @@
+https://gamefaqs.gamespot.com/arcade/927428-beatmania-iii-the-final/faqs/36446
+
+------------------------------------------------------------------------------
+Beatmania III the FINAL FAQ - Version 573.2
+-Arcade Release-
+
+by Will Weaver (Team Ragnarok)
+------------------------------------------------------------------------------
+
+
+SHORT DISCLAIMER:
+
+For full legal information, see section XII of the FAQ.
+
+This FAQ may not be posted anywhere not on my permissions list without my 
+express written consent. If you see this FAQ anywhere else, or if you see it 
+with a different name at the top, please contact me at coredesat@outphase.com 
+so I may hunt down those responsible and have a nice little chat with them 
+about how stealing others' work is bad and all that (read: I stand there and 
+go "You idiot! What the hell do you think you're doing?!").
+
+
+------------------------------------------------------------------------------
+TABLE OF CONTENTS
+------------------------------------------------------------------------------
+
+I. Version History & Contact Information
+II. Beatmania Basics
+	a. WTF?
+	b. The Groove Gauge
+	c. Failing a Song
+	d. Clearing a Song
+III. Game Modes
+	a. Kobako Mode
+	b. Shikomi Mode
+	c. Tsunagi Mode
+	d. Another Mode
+	e. Foot Mode
+IV. Floppy Disk Play
+V. Modifiers
+	a. Hi-Speed
+	b. Hidden/Sudden/Stealth
+	c. Battle/Center
+	d. Double
+	e. Random/Mirror
+	f. Transparent
+	g. Fast Play
+	h. Separate
+	i. Foot Play
+VI. Song List
+	a. Beatmania the Final
+	b. Beatmania 7th Mix
+	c. Beatmania CORE REMIX
+	d. Beatmania III
+	e. Beatmania Complete Mix
+	f. Beatmania Complete Mix 2
+	g. Beatmania Complete MIX 2 Another Remixes
+VII. Secrets
+	a. Sozai (Free) Mode
+	b. Unlocking Songs
+	c. Ending Themes
+VIII. Special Thanks
+IX. Contact Info - Part Deux
+X. Copyright Information
+
+
+------------------------------------------------------------------------------
+I. VERSION HISTORY AND CONTACT INFORMATION
+------------------------------------------------------------------------------
+
+0.1 - First version of the guide. Contains information on modifiers,
+      game modes, and playing with a floppy disk. Unreleased.
+
+0.3 - Added grading and groove gauge information. Unreleased.
+
+0.5 - Added information on the game itself. Unreleased.
+
+0.7 - Added information on how to get Sozai Mode, the unlockable songs,
+	and the different ending themes.
+
+0.9 - Started songlist. Added song titles and artists from Beatmania
+	the Final, Beatmania CORE REMIX, and Beatmania Complete Mix. 
+	Still need to add notecounts, difficulties, etc.
+
+0.9b - Added the list of songs in the Beatmania Complete Mix 2 Anothers
+	list.
+
+0.9c - Added the song titles and artists from Beatmania 7th Mix. Also,
+	I have just unlocked Sozai Mode on the local machine, and info
+	about it will go in the next update.
+
+0.9d - BIG update in the Sozai Mode section. Small changes elsewhere.
+
+0.95 - Corrected ending information.
+
+1.0 - Songlist complete. Will not be adding notecounts or difficulty info,
+	as there is just too much of it to add.
+
+Coredes - added a few more notes.
+
+Desat - Added notecounts for Beatmania the Final and Beatmania Complete Mix
+	2 Anothers.
+
+Swad - Added notecounts for Beatmania 7th Mix, Beatmania CORE REMIX, and
+	Beatmania Complete Mix. Changed translation for one of the songs.
+	Moved a couple sections around and simplified some of them.
+
+573 - Added copyright disclaimer and updated contact information.
+
+573.2 - Removed the old section 2, and updated formatting to look like my 
+	newer FAQs, such as changing the section numbers to Roman numerals.
+
+If you see a problem with my FAQ, or if there is something you think 
+absolutely must be added, contact me at coredesat@outphase.com.
+
+
+------------------------------------------------------------------------------
+II. BEATMANIA BASICS
+------------------------------------------------------------------------------
+
+a. The Groove Gauge
+-------------------
+
+Accurate keypresses or scratches increase your "groove gauge". To clear
+a song and be able to move on, you have to get it over 80%. In this game,
+there isn't a percentage attached to the gauge, so you need to get it in
+the red. If your gauge drops to 0% in Kobako or Shikomi modes, you don't
+fail out immediately, and you can still bring the gauge back into the 
+red and pass the song. If your gauge drops to 0% in Tsunagi mode, you
+fail out immediately and the game ends.
+
+Different accuracies increase or decrease your groove gauge at different
+rates. Flashing Greats, Greats, and Goods increase your gauge; Bads and 
+Poors decrease it.
+
+
+b. Failing a Song
+-----------------
+
+If you fail a song in Kobako or Shikomi modes, you get a chance to
+continue. If you don't continue, the game is over. Continuing utterly 
+destroys your overall grade unless you failed your first song, so it's 
+better to let the game end and start a new one. If you fail on Tsunagi 
+mode, the game simply ends. If you fail on Sozai Mode, nothing happens 
+unless it was the final song, in which case the game ends.
+
+
+c. Clearing a Song
+------------------
+
+If you reach the end of the song and your gauge is in the red, you have
+cleared the song. You'll then be judged on your accuracy and given a score.
+This score is not what is used to determine your grade - your EX Score is.
+Your EX Score is based on the number of Flashing Greats and Greats you get.
+The highest possible EX score on a song is the number of notes times two.
+
+Flashing Great: 2 points
+Great: 1 point
+Good, Bad, Poor: 0 points
+
+The grading system is as follows:
+
+A - Greater than 8/9 of highest possible EX score
+B - Greater than 7/9 and less than 8/9 of highest possible EX score
+C - Greater than 6/9 and less than 7/9 of highest possible EX score
+D - Greater than 5/9 and less than 6/9 of highest possible EX score
+E - Greater than 4/9 and less than 5/9 of highest possible EX score
+F - Greater than 3/9 and less than 4/9 of highest possible EX score
+G - Greater than 2/9 and less than 3/9 of highest possible EX score
+H - Less than 2/9 of highest possible EX score. You practically have to
+	just sit there and do nothing to earn an H.
+
+These are inclusive - that is, if you get exactly 7/9 of the highest
+possible EX score, you will get a B.
+
+This is a modified version of the EX score system in the Beatmania IIDX
+series - there are no AAAs or AAs. You receive grades after each song
+and at the end of the game, whenever the game ends (Game Over or after
+your set of songs).
+
+For your main score (also known as the "money score"), you can earn
+several bonuses depending on how you did:
+
+Border Bonus: 5730 points. You get this bonus if you finished the song
+	with your groove gauge at 80% (or just into the red). 
+
+Perfect Bonus: 1910 points.. Awarded if you get all Greats and Flashing 
+	Greats on a song. Poors	resulting from extra note hits don't 
+	count.
+
+
+------------------------------------------------------------------------------
+III. GAME MODES
+------------------------------------------------------------------------------
+
+Beatmania III the Final has three main game modes, and an unlockable fourth
+(see section 8.a. - "Sozai Mode"). They correspond with the basic game
+modes in the earlier Beatmania games. Once you choose a mode, you are
+locked into it and cannot access any other modes.
+
+
+a. Kobako Mode
+--------------
+
+This mode has easier notecharts than Shikomi and Tsunagi Modes. You cannot 
+access Anothers in Kobako mode. Kobako Mode also uses the grading system 
+from early Beatmania games that did not have Flashing Greats - your score 
+and grade are based on the total number of Greats (flashing or not) you 
+get.
+
+
+b. Shikomi Mode
+---------------
+
+This is the regular game mode of Beatmania III the Final, and you can play 
+Anothers and Foot Mode charts in this mode. Shikomi mode uses the regular 
+grading system, as described in Section 2. You cannot access the Kobako mode 
+charts in this mode.
+
+
+c. Tsunagi Mode
+---------------
+
+In this mode, you make a nonstop course by choosing any four songs to play. 
+You can play Anothers and Foot Mode, but you cannot choose Kobako mode charts,
+and you can't play any song more than once.
+
+Tsunagi has a special groove gauge that does not recharge and is always red. To
+pass, you simply need to have something left on the groove gauge at the end of
+the course. There are no Border/Perfect/Whatever bonuses in this mode. The
+gauge does not recharge, and when it hits 0, you are failed out and the game 
+ends.
+
+NOTE:
+
+In Kobako and Shikomi modes, you can't choose from all the songs right off the
+bat. For your first stage, you get to choose from about a third of the songs.
+When you clear that, another third of the songs is added. For the final stage,
+the rest of the songs are added, but a few of the easier ones are removed.
+
+
+------------------------------------------------------------------------------
+IV. FLOPPY DISK PLAY
+------------------------------------------------------------------------------
+
+Beatmania III machines are unique in that they have floppy disk drives
+built into them. Now, you're probably wondering "what the heck is that
+good for"? I'm here to tell you.
+
+In the Beatmania III series, you can use a floppy disk to save your scores
+in all three main game modes. After your game ends but before your final
+DJ Level screen, a chart appears with your highest scores on every song 
+in the mode you played, including all Anothers and Foot Mode charts.
+
+A floppy disk is also required to unlock Sozai Mode (see section 8.a. -
+"Sozai Mode".
+
+Note that if you use a floppy disk in an earlier version of Beatmania III
+(Beatmania III, Beatmania III Append 6th Mix, Beatmania III Append 7th Mix,
+Beatmania III Append CORE REMIX), your scores for those games won't be
+overwritten if they're higher than the scores you get in Beatmania III the
+Final.
+
+
+------------------------------------------------------------------------------
+6. MODIFIERS
+------------------------------------------------------------------------------
+
+The first thing you'll see when you put tokens into the machine is a screen
+with two keypad diagrams on it, featuring certain modifiers that correspond to
+each key. To activate these modifiers, you have to hit the key. If more than
+one modifier corresponds to the key, and you want the second one in the list,
+simply hit the key twice. There are a few modifiers that can't be chosen on
+this screen - to choose these, hit the Start button on the music select menu.
+Also, there are some that you're locked into for the duration of the game,
+such as Double.
+
+
+a. Hi-Speed
+-----------
+
+Hi-Speed is the most useful modifier in the game. Hi-Speed increases the rate
+at which the notes scroll down the screen, making the notes easier to read.
+Depending on how many times you hit the key to turn this mode on, you can
+choose from x1, x1.5, x2, x2.5, x3, x4, x6, x8, and x16. 
+
+If you can read the notes on x16, you are obviously a person with superhuman 
+powers or something. It's practically identical to Stealth.
+
+
+b. Hidden/Sudden/Stealth
+------------------------
+
+These mods are used if you want to give yourself even more of a challenge. 
+Hidden causes the notes to disappear before they reach the bottom of the
+screen. Sudden makes the notes appear near the bottom of the screen. 
+
+Stealth hides the notes entirely - if you can play a hard song on Stealth, 
+go sit over there with the person who plays on x16 and wait for a superhero 
+comic to be written about you, because you truly are special.
+
+Note that Hidden and Sudden can be used at the same time. Unlike previous
+games and IIDX games, though, Hidden and Sudden used together equal Stealth
+in this game. There really is no difference, and any high scores will be
+marked with "Stealth" if you use Hidden and Sudden together.
+
+
+c. Battle/Center
+----------------
+
+Battle is a mod that allows you to have "DJ battles" of sorts. Instead of 
+dividing the 1P chart between both sides, both players get the same (1P) chart.
+Highest score on each song wins the song, most songs won wins the game.
+
+Center is an extremely useful mod. It locks the second player out of the game,
+and lets one player use the 1P turntable and the 2P set of keys. It's extremely
+useful if you're used to the Beatmania IIDX controller for PS2, which has a
+similar layout by default.
+
+Once you choose Battle or Center, you're locked into it for the whole game.
+Obviously, you cannot choose both Battle and Center.
+
+
+d. Double
+---------
+
+Double is a game mode that requires you to use all 10 keys and both turntables
+to play songs. It takes a lot of talent to do this on a Beatmania III the Final
+machine, but it can be done. The charts are entirely different from a normal
+2-player game. There are even some songs that are only available on Double,
+but there are also some songs that are only available in 1P or Battle modes,
+so keep that in mind.
+
+Once you choose Double, you're locked into it for the duration of the game.
+
+Note that you don't have to choose Double in order to play on both sides at
+once. However, the game will think you are playing a 2P game without Battle,
+and you'll just get 1P charts divided between both sides. You also won't be
+able to select songs available only on Double mode.
+
+
+e. Random/Mirror
+----------------
+
+Random randomly randomizes the notecharts for each song. The notecharts you 
+get on Random are usually different each time, and the song may become
+easier or harder. Use Random at your own risk.
+
+Mirror does what its name implies - it makes the notechart a mirror image of
+its former self. For example, if a song contains a chord using keys 1 and 3,
+the Mirror version's chord will use keys 3 and 5.
+
+Random and Mirror cannot be used together in this game.
+
+
+f. Transparent
+--------------
+
+All Transparent does is make the surface on which the notes scroll down
+transparent (you can see through it). This mod is on by default, but you can
+turn it off if the background animations prove to be distracting. Turning
+off Transparent is highly recommended.
+
+
+g. Fast Play
+------------
+
+You can only adjust this mod on the song select menu (press Start on the
+song select menu). 
+
+Fast Play IS NOT Hi-Speed. Fast Play actually increases or decreases the
+speed of the song by different increments, making the song easier or harder.
+If you use this mod with the Hi-Speed mod, make sure you don't have Hi-Speed
+set too high, or else you won't be able to read the notes.
+
+Here is what each Fast/Slow Play mode does:
+
+Fast 1: 1.25x faster
+Fast 2: 1.6x faster
+Fast 3: 2x faster
+Slow: 0.8x normal speed
+
+Note that you can't do this to every song - only about half the songs let
+you change their speeds.
+
+
+h. Separate
+-----------
+
+If you started off playing Beatmania IIDX, this is an important mod to use. 
+Separate causes the lines on the notechart to be separate, instead of 
+overlapping like they usually do. This makes chords easier to read, but may
+interfere with your timing if you're used to playing the original way.
+
+You can only choose Separate on the song select menu. It's off by default. 
+In modes other than Center, there will be options for different frame styles -
+just scroll through these until you find Separate. The other frames are just
+there to look good and have no effect on gameplay.
+
+There is also a version of Separate that comes complete with a chart that 
+tracks how many Flashing Greats, Greats, Goods, Bads, and Poors you have as
+you play the song. This isn't very useful, but it does disable the background
+videos if you find them distracting. You can also use this feature in regular
+play (that is, without Separate).
+
+
+i. Foot Play
+------------
+
+For starters, Foot Play is NOT Foot Mode! Foot Mode is a difficulty, like
+Another. Foot Play is a modifier.
+
+Foot Play allows you to press the foot pedal instead of a specified note. You
+can have the foot pedal replace any of the five keys, but not the turntable.
+If you use this modifier, keep in mind that the key you're substituting the
+pedal for will be disabled for the duration of the song - hitting the key
+won't give you credit for the note.
+
+
+------------------------------------------------------------------------------
+7. SONG LIST
+------------------------------------------------------------------------------
+
+This section provides notecounts and BPMs for all the songs. Due to the sheer
+difficulty of noting down all the difficulties in approximately 60 seconds,
+none are listed.
+
+To access the Another or Foot difficulties, press both black keys on the
+song select screen.
+
+*Note: Not all songs have Anothers. Songs without Anothers simply won't have
+	any Another notecounts. The same goes for Foot Mode.
+
+a. From Beatmania the FINAL
+---------------------------
+
+2.14.13 - dj nagureo
+Genre: Techno
+BPM: 130
+
+Kobako Single: 390 notes
+Shikomi Single: 458 notes
+
+Kobako Double: 444 notes
+Shikomi Double: 458 notes
+
+---------------
+
+Ain't It Good - Tomoki Hirata
+Genre: UK Garage
+BPM: 134
+
+Kobako Single: 119 notes
+Kobako Double: 191 notes
+
+Note: Originally from Beatmania Yebisu Mix. No idea why it's here and not
+	in the Complete Mix folder.
+
+Another Note: This song has no Shikomi charts. They're the same in both
+	Kobako and Shikomi.
+
+---------------
+
+
+Baila! Baila! - Dandy Mineiro
+Genre: Latin Pop
+BPM: 130
+
+Kobako Single: 177 notes
+Shikomi Single: 498 notes
+Another Single: 521 notes
+
+Kobako Double: 269 notes
+Shikomi Double: 493 notes
+Another Double: 521 notes
+
+---------------
+
+Birdman - NM feat. TIME
+Genre: 2Step
+BPM: 130
+
+Kobako Single: 234 notes
+Shikomi Single: 343 notes
+Another Single: 368 notes
+
+Kobako Double: 288 notes
+Shikomi Double: 361 notes
+Another Double: 368 notes
+
+---------------
+
+Body - Tomoki Hirata
+Genre: UK Garage
+BPM: 134
+
+Kobako Single: 87 notes
+Kobako Double: 162 notes
+
+Note: This song has no Shikomi charts. They're the same in both Kobako 
+	and Shikomi.
+
+---------------
+
+Brilliant 2U - NAOKI
+Genre: Euro Groove
+BPM: 150
+
+Kobako Single: 270 notes
+Shikomi Single: 329 notes
+Another Single: 361 notes
+
+Kobako Double: 288 notes
+Shikomi Double: 363 notes
+Another Double: 369 notes
+
+Note: Originally from Beatmania IIDX Substream.
+
+---------------
+
+Calling for Destiny - NM feat. NAPPO
+Genre: J-R&B
+BPM: 102
+
+Kobako Single: 241 notes
+Shikomi Single: 498 notes
+
+Kobako Double: 287 notes
+Shikomi Double: 498 notes
+
+Note: This is misspelled "Calling for Distiny" in the game.
+
+---------------
+
+Candy (Star) - Luv Unlimited
+Genre: Candy Pop
+BPM: 192
+
+Kobako Single: 292 notes
+Shikomi Single: 490 notes
+Another Single: 700 notes
+
+Kobako Double: 495 notes
+Shikomi Double: 620 notes
+Another Double: 761 notes
+
+Note: Originally from DDRMAX: Dance Dance Revolution 6th Mix.
+
+---------------
+
+Cat Man - CALF
+Genre: Cyber Punk
+BPM: 110
+
+Kobako Single: 207 notes
+Shikomi Single: 391 notes
+Another Single: 419 notes
+
+Kobako Double: 272 notes
+Shikomi Double: 419 notes
+Another Double: 419 notes
+
+Note: The Shikomi and Another double charts are similar but not the same.
+
+---------------
+
+Cloudy Music - Slake
+Genre: Drum'N'Bass
+BPM: 190
+
+Kobako Single: 422 notes
+Shikomi Single: 532 notes
+
+Kobako Double: 422 notes
+Shikomi Double: 620 notes
+
+Note: Preview song from Beatmania IIDX 7th Style. Needs to be
+	unlocked before you can play it.
+
+---------------
+
+COREDESAT - Des-ROW
+Genre: Mixtural
+BPM: 158-165
+
+Kobako Single: 376 notes
+Shikomi Single: 497 notes
+
+Kobako Double: 477 notes
+Shikomi Double: 497 notes 
+
+Note: This is one of my favorites, but it's tricky. It consists of the 
+	title themes from Beatmania CORE REMIX, 7th Mix, and The Final.
+	It has to be unlocked.
+
+---------------
+
+Dance the Night Away - Kaz Senoo feat. Manny Mendez
+Genre: Disco
+BPM: 125
+
+Kobako Single: 261 notes
+Shikomi Single: 454 notes
+Another Single: 452 notes
+
+Kobako Double: 379 notes
+Shikomi Double: 423 notes
+Another Double: 452 notes
+
+---------------
+
+Dr.LOVE - baby weapon feat. Asuka M
+Genre: Dance Pop
+BPM: 123
+
+Kobako Single: 230 notes
+Shikomi Single: 262 notes
+
+Kobako Double: 271 notes
+Shikomi Double: 282 notes
+
+Note: Originally from Beatmania IIDX.
+
+---------------
+
+Fellows - dj TAKA feat. Sana
+Genre: Epilogue
+BPM: 135
+
+Kobako Single: 271 notes
+Shikomi Single: 417 notes
+
+Kobako Double: 275 notes
+Shikomi Double: 487 notes
+
+---------------
+
+Fire Wire - Pink Pong
+Genre: Breakbeat Trance
+BPM: 137
+
+Kobako Single: 281 notes
+Shikomi Single: 407 notes
+Another Single: 536 notes
+
+Kobako Double: 346 notes
+Shikomi Double: 487 notes
+Another Double: 656 notes
+
+---------------
+
+Gambol - Slake
+Genre: Big Beat
+BPM: 102
+
+Kobako Single: 100 notes
+Shikomi Single: 137 notes
+
+Kobako Double: 118 notes
+Shikomi Double: 137 notes
+
+Note: Originally from Beatmania IIDX. The timing problems are still there.
+
+---------------
+
+Gamelan de Couple - Tomosuke
+Genre: Gamelan Trance
+BPM: 150
+
+Kobako Single: 479 notes
+Shikomi Single: 555 notes
+Another Single: 656 notes
+
+Kobako Double: 543 notes
+Shikomi Double: 617 notes
+Another Double: 656 notes
+
+Note: Originally from Mambo a Go Go.
+
+---------------
+
+Gentle Stress - DJ Swan
+Genre: Drum'N'Bass
+BPM: 174
+
+Kobako Single: 232 notes
+Shikomi Single: 350 notes
+
+Kobako Double: 272 notes
+Shikomi Double: 351 notes
+
+Note: Originally from Beatmania IIDX Substream.
+
+---------------
+
+Happy Man - Mutsuhiko Izumi
+Genre: Guitar Punk
+BPM: 180
+
+Kobako Single: 229 notes
+Shikomi Single: 580 notes
+Another Single: 696 notes
+
+Kobako Double: 229 notes
+Shikomi Double: 574 notes
+Another Double: 694 notes
+
+Note: Originally from Drummania.
+
+---------------
+
+Hit'N'Slap - Asletics
+Genre: Hip-Hop
+BPM: 103
+
+Kobako Single: 190 notes
+Shikomi Single: 322 notes
+Another Single: 437 notes
+
+Kobako Double: 294 notes
+Shikomi Double: 408 notes
+Another Double: 437 notes
+
+---------------
+
+Implantation - Tomosuke
+Genre: Goa Trance
+BPM: 145
+
+Kobako Single: 295 notes
+Shikomi Single: 562 notes
+Another Single: 949 notes
+
+Kobako Double: 484 notes
+Shikomi Double: 669 notes
+Another Double: 1065 notes
+
+Note: Originally from Guitar Freaks 3rd Mix & Drummania 2nd Mix. Needs to 
+	be unlocked. Another is extremely hard.
+
+---------------
+
+Instant Love - "DJ Konami"
+Genre: Practice
+BPM: 115
+
+Kobako Single: 35 notes
+
+Kobako Double: 65 notes
+
+Note: This is the practice song. It's only available in Kobako. 
+	Don't play it unless you feel like wasting money. All it is
+	is DJ Konami saying random things, then you hit one or two
+	notes. Also, this song counts as TWO STAGES.
+
+---------------
+
+Jet World - Mutsuhiko Izumi
+Genre: Guitar Punk
+BPM: 138
+
+Kobako Single: 297 notes
+Shikomi Single: 484 notes
+Another Single: 874 notes
+
+Kobako Double: 297 notes
+Shikomi Double: 484 notes
+Another Double: 941 notes
+
+Note: Originally from Guitar Freaks 3rd Mix & Drummania 2nd Mix.
+
+---------------
+
+Kiss Kiss Kiss - NAOKI feat. SHANTI
+Genre: Hyper Eurobeat
+BPM: 150
+
+Kobako Single: 381 notes
+Shikomi Single: 569 notes
+
+Kobako Double: 524 notes
+Shikomi Double: 569 notes
+
+Note: Originally from DanceManiax.
+
+---------------
+
+la brise d'ete - Orange Lounge
+Genre: Bossa Lounge
+BPM: 100
+
+Kobako Single: 360 notes
+Shikomi Single: 474 notes
+
+Kobako Double: 422 notes
+Shikomi Double: 479 notes
+
+Note: Originally from Mambo a Go Go.
+
+---------------
+
+Love D Rive - D-crew
+Genre: Happy Hardcore
+BPM: 190
+
+Kobako Single: 431 notes
+Shikomi Single: 625 notes
+Another Single: 686 notes
+
+Kobako Double: 565 notes
+Shikomi Double: 699 notes
+Another Double: 715 notes
+
+Note: This song is VERY hard on all difficulties, but is trumped by a
+	few other songs on Shikomi and Another.
+
+---------------
+
+MGS2 Mission R - L.E.D.
+Genre: Konamix
+BPM: 150
+
+Kobako Single: 398 notes
+Shikomi Single: 483 notes
+Another Single: 549 notes
+
+Kobako Double: 414 notes
+Shikomi Double: 497 notes
+Another Double: 541 notes
+
+Note: Originally from DanceManiax.
+
+---------------
+
+Miracle Moon - Togo Project feat. Sana
+Genre: J-Garage Pop
+BPM: 128
+
+Kobako Single: 274 notes
+
+Kobako Double: 385 notes
+
+Note: Originally from pop'n music 2. Needs to be unlocked. Does not have
+	its own Shikomi chart - it uses the same chart for both.
+
+---------------
+
+Nuruhachi - Asletics
+Genre: Nu Jazz
+BPM: 128
+
+Kobako Single: 220 notes
+Shikomi Single: 277 notes
+Another Single: 326 notes
+
+Kobako Double: 224 notes
+Shikomi Double: 326 notes
+Another Double: 329 notes
+
+---------------
+
+One Seek - positive MA feat. Akino
+Genre: Broken Ambience
+BPM: 145
+
+Kobako Single: 313 notes
+Shikomi Single: 377 notes
+
+Kobako Double: 369 notes
+Shikomi Double: 380 notes
+
+Note: The song is longer in this game than it was in Beatmania the Final.
+
+---------------
+
+Perfect Sunrise - MIRAK feat. Brian Smith
+Genre: Psychedelic
+BPM: 124
+
+Kobako Single: 388 notes
+Shikomi Single: 403 notes
+Another Single: 453 notes
+
+Kobako Double: 516 notes
+Shikomi Double: 530 notes
+Another Double: 580 notes
+
+Note: Bring headphones if your machine is turned up high.
+
+---------------
+
+Pure Dream - Pink Pong
+Genre: Trance
+BPM: 142
+
+Kobako Single: 281 notes
+Shikomi Single: 368 notes
+Another Single: 539 notes
+
+Kobako Double: 392 notes
+Shikomi Double: 503 notes
+Another Double: 535 notes
+
+---------------
+
+Quickening - dj TAKA
+Genre: Psychedelic
+BPM: 150 (its Double Another says 149 - it's 150)
+
+Kobako Single: 478 notes
+Shikomi Single: 651 notes
+Another Single: 878 notes
+
+Kobako Double: 440 notes
+Shikomi Double: 620 notes
+Another Double: 1044 notes
+
+Note: Originally from DanceManiax.
+
+---------------
+
+Re-Roots - Napakick
+Genre: Disco Trance
+BPM: 130
+
+Kobako Single: 226 notes
+Shikomi Single: 433 notes
+Another Single: 631 notes
+
+Kobako Double: 262 notes
+Shikomi Double: 455 notes
+Another Double: 631 notes
+
+Note: Very strange another charts.
+
+---------------
+
+Retrofuture - DJ Simon
+Genre: Breakbeats
+BPM: 100
+
+Kobako Single: 300 notes
+Shikomi Single: 430 notes
+
+Kobako Double: 404 notes
+Shikomi Double: 438 notes
+
+Note: This is the ending theme from Beatmania Club Mix. It has
+	to be unlocked first.
+
+---------------
+
+Savior - reo nagumo feat. Lala Moore
+Genre: Dub Pop
+BPM: 90
+
+Kobako Single: 149 notes
+Shikomi Single: 289 notes
+
+Kobako Double: 233 notes
+Shikomi Double: 289 notes
+
+---------------
+
+Shox - RAM
+Genre: Drum'N'Bass
+BPM: 175
+
+Kobako Single: 353 notes
+Shikomi Single: 500 notes
+Another Single: 732 notes
+
+Kobako Double: 372 notes
+Shikomi Double: 526 notes
+Another Double: 747 notes
+
+---------------
+
+Special Energy - DJ FX
+Genre: Trance Techno
+BPM: 140
+
+Kobako Single: 251 notes
+Shikomi Single: 303 notes
+Another Single: 408 notes
+
+Kobako Double: 303 notes
+Shikomi Double: 557 notes
+Another Double: 409 notes
+
+Note: Originally from Beatmania IIDX.
+
+---------------
+
+
+Synth 1997 - e.o.s.
+Genre: Euro Groove
+BPM: 130
+
+Kobako Single: 253 notes
+Shikomi Single: 362 notes
+
+Kobako Double: 341 notes
+Shikomi Double: 362 notes
+
+---------------
+
+Taulanaewn - mur.mur.kurotoh
+Genre: Rada Techno
+BPM: 147
+
+Kobako Single: 339 notes
+Shikomi Single: 485 notes 
+
+Kobako Double: 398 notes
+Shikomi Double: 487 notes
+
+Note: Bonus points if you can pronounce this song's name.
+
+---------------
+
+The Least 100sec - Hirofumi Sasaki
+Genre: Progressive
+BPM: 200-263
+
+Kobako Single: 384 notes
+Shikomi Single: 675 notes
+
+Kobako Double: 378 notes
+Shikomi Double: 671 notes
+
+Note: BPM changes galore! Originally from Keyboardmania 3rd Mix.
+	Needs to be unlocked.
+
+---------------
+
+Ultra - RAM
+Genre: Techno
+BPM: 130
+
+Kobako Single: 274 notes
+Shikomi Single: 382 notes
+Another Single: 438 notes
+
+Kobako Double: 341 notes
+Shikomi Double: 510 notes
+Another Double: 575 notes
+
+---------------
+
+VOIDDD - Des-ROW feat. Kevin Vecchione
+Genre: Mixture
+BPM: 135
+
+Kobako Single: 481 notes
+Shikomi Single: 629 notes
+
+Kobako Double: 596 notes
+Shikomi Double: 629 notes
+
+Note: VOIDDDDD!!! Bring headphones if your machine is turned up high. 
+	Originally from Guitar Freaks 5th Mix & Drummania 4th Mix.
+
+---------------
+
+Red Curtain - mur.mur.kurotoh
+Genre: Experimental
+BPM: 215
+
+Kobako Single: 228 notes
+Shikomi Single: 283 notes
+
+Kobako Double: 274 notes
+Shikomi Double: 283 notes
+
+Note: This song's title is in Japanese. The artist's name is in English, 
+	and it's 215 BPM. That should help you find it.
+
+---------------
+
+Daikenkai - Des-ROW
+Genre: Hip-Rock
+BPM: 143-172
+
+Kobako Single: 500 notes
+Shikomi Single: 673 notes
+Another Single: 692 notes
+
+Kobako Double: 619 notes
+Shikomi Double: 692 notes
+Another Double: 692 notes (different chart)
+
+Note: This song's title is in Japanese. You should be able to recognize
+	it if you've ever played DDR Extreme or pop'n music. It's 143-172 
+	BPM, and the artist name is in English.
+
+---------------
+
+Wings of a Butterfly - Slake feat. ANCTEA
+Genre: Broken Beats
+BPM: 135
+
+Kobako Single: 165 notes
+Shikomi Single: 353 notes
+Another Single: 414 notes
+ 
+Kobako Double: 165 notes
+Shikomi Double: 376 notes
+Another Double: 414 notes
+
+Note: This song's title is in Japanese. The artist's name is in English,
+	and it's 135 BPM. That should help you find it. The another is
+	tricky.
+
+---------------
+
+West Shinjuku Cleaning Tune - (DJ Simon)
+Genre: Percussive
+BPM: 140-280
+
+Kobako Single: 182 notes
+Shikomi Single: 446 notes
+Another Single: 624 notes
+ 
+Kobako Double: 182 notes 
+Shikomi Double: 446 notes
+Another Double: 725 notes
+
+Note: This song's title AND artist are in Japanese. It's 140-280 BPM, and
+	it's the only song in this category whose artist's name is NOT in
+	English. You should be able to find it. Originally from pop'n
+	music 6.
+
+
+---------------
+
+
+b. From Beatmania 7th Mix
+-------------------------
+
+*Note: This category also contains songs from Beatmania 6th Mix.
+
+---------------
+
+7000 Questions - Alpha (name in katakana)
+Genre: Hip-Hop
+BPM: 112
+
+Kobako Single: 391 notes
+Shikomi Single: 605 notes
+Another Single: 796 notes
+
+Kobako Double: 558 notes
+Shikomi Double: 716 notes
+Another Double: 793 notes
+
+---------------
+
+A Break on the Edge - Ken Takizawa feat. Round Faith
+Genre: Breakbeats
+BPM: 135
+
+Kobako Single: 224 notes
+Shikomi Single: 328 notes
+
+Kobako Double: 329 notes
+Shikomi Double: 361 notes
+
+---------------
+
+Afronova Primeval - 8-bit
+Genre: Tribal
+BPM: 200
+
+Kobako Single: 356 notes
+Shikomi Single: 536 notes
+Another Single: 790 notes
+
+Kobako Double: 372 notes
+Shikomi Double: 638 notes
+Another Double: 817 notes
+
+Note: Originally from DanceManiax. Pretty tough on all modes.
+
+---------------
+
+Air - DJ Simon
+Genre: House
+BPM: 130
+
+Kobako Single: 180 notes
+Shikomi Single: 306 notes
+Another Single: 337 notes
+
+Kobako Double: 180 notes
+Shikomi Double: 306 notes 
+Another Double: 341 notes
+
+Note: This is an EXCELLENT song for beginners tired of 1-stars.
+
+---------------
+
+Asian 573 - youhei
+Genre: Asian Future
+BPM: 114
+
+Kobako Single: 183 notes
+Shikomi Single: 309 notes
+
+Kobako Double: 229 notes
+Shikomi Double: 310 notes
+
+Note: Beware the scales at the beginning in Shikomi mode.
+
+---------------
+
+Baby Baby Gimme Your Love 2002 - Divas
+Genre: R&B
+BPM: 96
+
+Kobako Single: 143 notes
+Shikomi Single: 386 notes
+Another Single: 473 notes
+
+Kobako Double: 197 notes
+Shikomi Double: 384 notes
+Another Double: 473 notes
+
+Note: Good song for beginners on Kobako. LOTS of scales on Shikomi.
+
+---------------
+
+Battery Boom - Huckleberry Finn & Sound Solution
+Genre: UK Garage
+BPM: 136
+
+Kobako Single: 185 notes
+Shikomi Single: 260 notes
+
+Kobako Double: 288 notes
+Shikomi Double: 314 notes
+
+Note: The Kobako chart is devoid of blue notes.
+
+---------------
+
+Be Lovin - D-Crew
+Genre: Happy Hardcore
+BPM: 185
+
+Kobako Single: 374 notes
+Shikomi Single: 508 notes
+Another Single: 731 notes
+
+Kobako Double: 500 notes
+Shikomi Double: 646 notes
+Another Double: 731 notes
+
+Note: Very challenging on all modes. Contains at least one freeze
+scratch - in order to do these, you must fully rotate the turntable
+once for each freeze scratch. There is one in Kobako, and two in
+Shikomi (and on the another).
+
+---------------
+
+Be Lovin (Long Version) - D-Crew
+Genre: Happy Hardcore
+BPM: 185
+
+Kobako Single: 471 notes
+Shikomi Single: 623 notes
+Another Single: 865 notes
+
+Kobako Double: 610 notes
+Shikomi Double: 762 notes
+Another Double: 865 notes
+
+Note: Long version of Be Lovin. Slightly easier but tiring.
+
+---------------
+
+Caldera - CALF
+Genre: Hardcore Breakbeats
+BPM: 120-210
+
+Kobako Single: 415 notes
+Shikomi Single: 581 notes
+Another Single: 649 notes
+
+Kobako Double: 520 notes
+Shikomi Double: 588 notes
+Another Double: 649 notes
+
+Note: Beware the ending.
+
+---------------
+
+Cappuccino Bossa - Hashed Box
+Genre: Bossa Nova
+BPM: 174
+
+Kobako Single: 237 notes
+Shikomi Single: 338 notes
+
+Kobako Double: 319 notes
+Shikomi Double: 351 notes
+
+Note: Watch out for the freeze scratch near the beginning.
+
+---------------
+
+Catch It! - Total Science
+Genre: Drum'N'Bass
+BPM: 174
+
+Kobako Single: 195 notes
+Shikomi Single: 300 notes
+
+Kobako Double: 272 notes
+Shikomi Double: 300 notes
+
+---------------
+
+Champion - Asletics
+Genre: Hip-Hop
+BPM: 87
+
+Kobako Single: 158 notes
+Shikomi Single: 272 notes
+Another Single: 324 notes
+
+Kobako Double: 294 notes
+Shikomi Double: 278 notes
+Another Double: 324 notes
+
+Note: Yes, the Shikomi Double chart has fewer notes than the Kobako 
+	Double chart.
+
+---------------
+
+Code Red - RAM
+Genre: Drum'N'Bass
+BPM: 172
+
+Kobako Single: 188 notes
+Shikomi Single: 365 notes
+Another Single: 432 notes
+
+Kobako Double: 235 notes
+Shikomi Double: 379 notes
+Another Double: 433 notes
+
+---------------
+
+Disabled the FLAW - D-Crew
+Genre: Ground Ash
+BPM: 145-171 (Another is 135-195)
+
+Kobako Single: 372 notes
+Shikomi Single: 456 notes
+Another Single: 527 notes
+
+Kobako Double: 497 notes
+Shikomi Double: 556 notes
+Another Double: 629 notes
+
+Note: Beware of BPM changes. LOTS of scratches on Shikomi, and beware
+	the ending on Another!
+
+---------------
+
+Disabled the FLAW (Long Version) - D-Crew
+Genre: Ground Ash
+BPM: 145-173
+
+Kobako Single: 609 notes
+Shikomi Single: 693 notes
+
+Kobako Double: 736 notes
+Shikomi Double: 819 notes
+
+Note: LOTS of scratches early on. Not quite as hard as the original.
+
+---------------
+
+Disco Dog - Asletics
+Genre: 80's Disco
+BPM: 135
+
+Kobako Single: 266 notes
+Shikomi Single: 484 notes
+
+Kobako Double: 425 notes
+Shikomi Double: 483 notes
+
+Note: There's a freeze scratch toward the end.
+
+---------------
+
+Drumfunk - PARADOX
+Genre: Drumfunk
+BPM: 174
+
+Kobako Single: 381 notes 
+Shikomi Single: 504 notes
+Another Single: 720 notes
+
+Kobako Double: 530 notes
+Shikomi Double: 636 notes
+Another Double: 722 notes
+
+Note: The Kobako Single chart has no blue notes.
+
+---------------
+
+Feel the Light - Tomosuke
+Genre: Nu Jazz
+BPM: 130
+
+Kobako Single: 350 notes
+Shikomi Single: 402 notes
+Another Single: 527 notes
+
+Kobako Double: 396 notes
+Shikomi Double: 460 notes
+Another Double: 645 notes
+
+Note: The another here is different from the one in 6th Mix.
+
+---------------
+
+Fire - RAM
+Genre: Trance
+BPM: 138
+
+Kobako Single: 117 notes
+Shikomi Single: 361 notes
+Another Single: 415 notes
+
+Kobako Double: 205 notes
+Shikomi Double: 337 notes
+Another Double: 415 notes
+
+---------------
+
+Fire Dub - Asletics
+Genre: Dub
+BPM: 85
+
+Kobako Single: 147 notes
+Shikomi Single: 191 notes
+Another Single: 349 notes
+
+Kobako Double: 184 notes
+Shikomi Double: 301 notes
+Another Double: 349 notes
+
+---------------
+
+Free Kicker - Napakick
+Genre: Rocket Beats
+BPM: 130
+
+Kobako Single: 244 notes
+Shikomi Single: 473 notes
+Another Single: 513 notes
+
+Kobako Double: 322 notes
+Shikomi Double: 473 notes
+Another Double: 513 notes
+
+---------------
+
+Funky Modelling (Edit) - Sparker
+Genre: Breakbeats
+BPM: 140
+
+Kobako Single: 248 notes 
+Shikomi Single: 386 notes
+Another Single: 414 notes
+
+Kobako Double: 264 notes
+Shikomi Double: 414 notes
+Another Double: 414 notes (yes, really)
+
+Note: Beware the middle section of the Another.
+
+---------------
+
+Funky Modelling (Long Version) - Sparker
+Genre: Breakbeats
+BPM: 140
+
+Kobako Single: 359 notes
+Shikomi Single: 533 notes
+
+Kobako Double: 473 notes
+Shikomi Double: 533 notes
+
+---------------
+
+Healen - positive MA
+Genre: 2Step
+BPM: 133
+
+Kobako Single: 232 notes
+Shikomi Single: 277 notes
+Another Single: 327 notes
+
+Kobako Double: 301 notes
+Shikomi Double: 322 notes
+Another Double: 327 notes
+
+---------------
+
+Healen (Long Version) - positive MA
+Genre: 2Step
+BPM: 133
+
+Kobako Single: 361 notes
+Shikomi Single: 445 notes
+
+Kobako Double: 471 notes
+Shikomi Double: 505 notes
+
+---------------
+
+How Long? - B. Choyek
+Genre: Groovy Style
+BPM: 125
+
+Kobako Single: 224 notes
+Shikomi Single: 384 notes
+Another Single: 436 notes
+
+Kobako Double: 224 notes
+Shikomi Double: 384 notes
+Another Double: 436 notes
+
+---------------
+
+Hysteria 2001 - NM
+Genre: R&B
+BPM: 190
+
+Kobako Single: 179 notes
+Shikomi Single: 354 notes
+
+Kobako Double: 239 notes
+Shikomi Double: 354 notes
+
+Note: This song has timing issues.
+
+---------------
+
+Jack and Mark Get Busy! - Distant Soundz feat. MC Image
+Genre: UK Garage
+BPM: 134
+
+Kobako Single: 307 notes
+Shikomi Single: 396 notes
+
+Kobako Double: 377 notes
+Shikomi Double: 407 notes
+
+Note: The version of the song in this game is longer than the 
+	one in 6th Mix.
+
+---------------
+
+Lauga - murmuru-kurotou
+Genre: Experimental
+BPM: 179
+
+Kobako Single: 246 notes
+Shikomi Single: 410 notes
+
+Kobako Double: 334 notes
+Shikomi Double: 410 notes
+
+---------------
+
+Laughin - Slake
+Genre: Electrical Beats
+BPM: 145
+
+Kobako Single: 294 notes
+Shikomi Single: 400 notes
+Another Single: 446 notes
+
+Kobako Double: 331 notes
+Shikomi Double: 409 notes
+Another Double: 446 notes
+
+Note: Beware the ending on Another.
+
+---------------
+
+Light Motion - RAM
+Genre: Rave
+BPM: 152
+
+Kobako Single: 314 notes
+Shikomi Single: 486 notes
+Another Single: 532 notes
+
+Kobako Double: 315 notes
+Shikomi Double: 476 notes
+Another Double: 531 notes
+
+---------------
+
+Liquid Rain - Pink Pong
+Genre: Trance
+BPM: 138
+
+Kobako Single: 243 notes
+Shikomi Single: 337 notes
+Another Single: 521 notes
+
+Kobako Double: 253 notes 
+Shikomi Double: 400 notes
+Another Double: 503 notes
+
+Note: The freeze scratches are gone for some reason.
+
+---------------
+
+Lying on the Bench - positive MA
+Genre: Guitar Pop
+BPM: 118
+
+Kobako Single: 71 notes
+Shikomi Single: 78 notes
+
+Kobako Double: 77 notes
+
+Note: This is the ending theme of Beatmania 6th Mix. There is only
+	one Double chart - the Kobako chart. Shikomi uses the exact
+	same chart.
+
+---------------
+
+Monotone - DAYSBLUE
+Genre: Ambient Pop
+BPM: 120
+
+Kobako Single: 94 notes
+Shikomi Single: 169 notes
+Another Single: 190 notes
+
+Kobako Double: 169 notes
+Shikomi Double: 187 notes
+Another Double: 190 notes
+
+Note: This is the ending theme of Beatmania 7th Mix. It's also easy.
+
+---------------
+
+My DJ - Asletics
+Genre: Big Beat
+BPM: 120
+
+Kobako Single: 183 notes
+Shikomi Single: 338 notes
+Another Single: 472 notes
+
+Kobako Double: 289 notes
+Shikomi Double: 337 notes
+Another Double: 472 notes
+
+---------------
+
+New World - Klute
+Genre: Techno
+BPM: 138
+
+Kobako Single: 225 notes
+Shikomi Single: 321 notes
+Another Single: 513 notes
+
+Kobako Double: 281 notes
+Shikomi Double: 397 notes
+Another Double: 512 notes
+
+---------------
+
+Panatium - Ragulira
+Genre: Digital Hardcore
+BPM: 137
+
+Kobako Single: 271 notes
+Shikomi Single: 393 notes
+
+Kobako Double: 361 notes
+Shikomi Double: 410 notes
+
+---------------
+
+Peace Dream - Pink Pong
+Genre: Trance
+BPM: 148
+
+Kobako Single: 218 notes
+Shikomi Single: 407 notes
+Another Single: 499 notes
+
+Kobako Double: 323 notes
+Shikomi Double: 475 notes
+Another Double: 503 notes
+
+Note: Contains a lot of scales.
+
+---------------
+
+Peace Dream (Long Version) - Pink Pong
+Genre: Trance
+BPM: 148
+
+Kobako Single: 303 notes
+Shikomi Single: 575 notes
+Another Single: 696 notes
+
+Kobako Double: 452 notes
+Shikomi Double: 659 notes
+Another Double: 700 notes
+
+Note: Also contains a lot of scales.
+
+---------------
+
+Pink Dream - Pink Pong
+Genre: Trance
+BPM: 138
+
+Kobako Single: 184 notes
+Shikomi Single: 398 notes
+Another Single: 450 notes
+
+Kobako Double: 184 notes
+Shikomi Double: 451 notes
+Another Double: 575 notes
+
+Note: Pretty hard on Shikomi.
+
+---------------
+
+Pink Dream (Long Version) - Pink Pong
+Genre: Trance
+BPM: 138
+
+Kobako Single: 259 notes
+Shikomi Single: 559 notes
+
+Kobako Double: 259 notes
+Shikomi Double: 632 notes
+
+Note: This song can be brutal to novice players.
+
+---------------
+
+Recall - RAM
+Genre: Electro
+BPM: 133
+
+Kobako Single: 140 notes
+Shikomi Single: 309 notes
+
+Kobako Double: 246 notes
+Shikomi Double: 308 notes
+
+---------------
+
+Reference - Sparker
+Genre: Trance
+BPM: 140
+
+Kobako Single: 452 notes
+Shikomi Single: 567 notes
+Another Single: 647 notes
+
+Kobako Double: 454 notes
+Shikomi Double: 575 notes
+Another Double: 647 notes
+
+Note: The Another is one of the hardest charts in the game.
+
+---------------
+
+Reference (Long Version) - Sparker
+Genre: Trance
+BPM: 140
+
+Kobako Single: 564 notes
+Shikomi Single: 735 notes
+Another Single: 843 notes
+
+Kobako Double: 568 notes
+Shikomi Double: 731 notes
+Another Double: 843 notes
+
+Note: The Another is one of the hardest charts in the game.
+
+---------------
+
+Resolve - Total Science
+Genre: Drum'N'Bass
+BPM: 174
+
+Kobako Single: 184 notes
+Shikomi Single: 315 notes
+Another Single: 399 notes
+
+Kobako Double: 316 notes
+Shikomi Double: 389 notes
+Another Double: 399 notes
+
+---------------
+
+S.F.M. - KC Hospital
+Genre: Melodic Core
+BPM: 100-200
+
+Kobako Single: 232 notes
+Shikomi Single: 374 notes
+Another Single: 440 notes
+
+Kobako Double: 365 notes
+Shikomi Double: 422 notes
+Another Double: 440 notes
+
+---------------
+
+Smack Up - Ken Takizawa
+Genre: Big Beat
+BPM: 140
+
+Kobako Single: 308 notes
+Shikomi Single: 504 notes
+Another Single: 638 notes
+
+Kobako Double: 428 notes
+Shikomi Double: 635 notes
+Another Double: 703 notes
+
+---------------
+
+Space Tribe - Napakick
+Genre: Rocket Beats
+BPM: 100
+
+Kobako Single: 133 notes
+Shikomi Single: 209 notes
+
+Kobako Double: 167 notes
+Shikomi Double: 209 notes
+
+---------------
+
+Steel Cage - Des-ROW
+Genre: Graind Core
+BPM: 125
+
+Kobako Single: 256 notes
+Shikomi Single: 415 notes
+Another Single: 451 notes
+
+Kobako Double: 382 notes
+Shikomi Double: 438 notes
+Another Double: 451 notes
+
+---------------
+
+Steel Cage (Long Version) - Des-ROW
+Genre: Graind Core
+BPM: 125
+
+Kobako Single: 411 notes
+Shikomi Single: 590 notes
+Another Single: 646 notes
+
+Kobako Double: 546 notes
+Shikomi Double: 629 notes
+Another Double: 646 notes
+
+---------------
+
+Supersoniq Flight - B. Choyek
+Genre: Groovy Style
+BPM: 125
+
+Kobako Single: 209 notes
+Shikomi Single: 277 notes
+
+Kobako Double: 307 notes
+Shikomi Double: 362 notes
+
+---------------
+
+Surge Line - positive MA
+Genre: Guitar Pop
+BPM: 118
+
+Kobako Single: 195 notes
+Shikomi Single: 253 notes
+Another Single: 381 notes
+
+Kobako Double: 248 notes
+Shikomi Double: 314 notes
+Another Double: 400 notes
+
+Note: Watch out for the ending's scratches. The song's longer
+	here than it was in Beatmania 6th Mix.
+
+---------------
+
+Tear It Up - Klute
+Genre: Techno
+BPM: 136
+
+Kobako Single: 291 notes
+Shikomi Single: 528 notes
+Another Single: 603 notes
+
+Kobako Double: 389 notes
+Shikomi Double: 571 notes
+Another Double: 603 notes
+
+---------------
+
+Uziel - murmuru-kurotou
+Genre: Experimental
+BPM: 179
+
+Kobako Single: 219 notes
+Shikomi Single: 315 notes
+
+Kobako Double: 288 notes
+Shikomi Double: 337 notes
+
+---------------
+
+Virtual Drummer - Paradox
+Genre: Drumfunk
+BPM: 174
+
+Kobako Single: 317 notes
+Shikomi Single: 468 notes
+Another Single: 566 notes
+
+Kobako Double: 431 notes
+Shikomi Double: 521 notes
+Another Double: 574 notes
+
+---------------
+
+Water Flame - K.
+Genre: Jazz/House
+BPM: 132
+
+Kobako Single: 241 notes
+Shikomi Single: 297 notes
+
+Kobako Double: 282 notes
+Shikomi Double: 300 notes
+
+---------------
+
+
+Watering - Slake
+Genre: Techno
+BPM: 140
+
+Kobako Single: 220 notes
+Shikomi Single: 358 notes
+Another Single: 436 notes
+
+Kobako Double: 246 notes
+Shikomi Double: 358 notes
+Another Double: 436 notes
+
+Note: There's a freeze scratch toward the end.
+
+---------------
+
+What Is Love? - Tomosuke 
+Genre: House
+BPM: 130
+
+Kobako Single: 167 notes
+Shikomi Single: 282 notes
+Another Single: 317 notes
+
+Kobako Double: 193 notes
+Shikomi Double: 291 notes
+Another Double: 319 notes
+
+---------------
+
+What's Next? - Slake feat. Daina Norman
+Genre: Nu Jazz
+BPM: 145
+
+Kobako Single: 232 notes
+Shikomi Single: 296 notes
+Another Single: 357 notes
+
+Kobako Double: 235 notes
+Shikomi Double: 309 notes
+Another Double: 391 notes
+
+---------------
+
+Who Gotta Funk? - Asletics
+Genre: Free Style
+BPM: 100-135
+
+Kobako Single: 266 notes
+Shikomi Single: 363 notes
+Another Single: 507 notes
+
+Kobako Double: 266 notes
+Shikomi Double: 374 notes
+Another Double: 507 notes
+
+Notes: BPM changes all over the place.
+
+---------------
+
+Super Easy C-E-Z - You the Rock (Star)
+Genre: Hip-Hop
+BPM: 140
+
+Kobako Single: 157 notes
+Shikomi Single: 218 notes
+
+Kobako Double: 175 notes
+Shikomi Double: 310 notes
+
+Note: This song's title is in kanji. You should be able to identify
+	it because "C-E-Z" is in English.
+
+---------------
+
+White Lecture - Alpha
+Genre: Hip-Hop
+BPM: 105
+
+Kobako Single: 177 notes
+Shikomi Single: 223 notes
+Another Single: 409 notes
+
+Kobako Double: 340 notes
+Shikomi Double: 390 notes
+Another Double: 406 notes
+
+Note: This song's title and artist are in katakana. It's the only one
+	in this category whose title and artist are both in katakana,
+	so you should be able to find it.
+
+---------------
+
+Night Line (ma-Remix) - positive MA feat. TSUBOI
+Genre: Hard Reggae
+BPM: 102
+
+Kobako Single: 203 notes
+Shikomi Single: 307 notes
+Another Single: 343 notes
+
+Kobako Double: 276 notes
+Shikomi Double: 329 notes
+Another Double: 343 notes
+
+Note: This song's title is in kanji. You can identify it by looking
+	for "(ma-Remix)" in its title.
+
+---------------
+
+
+c. From Beatmania CORE REMIX
+----------------------------
+
+*Note - This category contains some songs from Beatmania IIDX 3rd Style.
+
+---------------
+
+20, November (Final Edit) - N.A.R.D. arranged by Tatsuya Nishiwaki
+Genre: House
+BPM: 130
+
+Kobako Single: 228 notes
+Shikomi Single: 307 notes
+Another Single: 513 notes
+
+Kobako Double: 230 notes
+Shikomi Double: 349 notes
+Another Double: 506 notes
+
+---------------
+
+2 Gorgeous 4U (Emulate Mix) - Prophet-31 remixed by Slake
+Genre: Breakbeats
+BPM: 170
+
+Kobako Single: 286 notes
+Shikomi Single: 328 notes
+
+Kobako Double: 289 notes
+Shikomi Double: 329 notes
+
+---------------
+
+Acid Bomb (Latinize Mix) - DJ FX remixed by Slake
+Genre: Latin House
+BPM: 145
+
+Kobako Single: 258 notes
+Shikomi Single: 396 notes
+Another Single: 587 notes
+
+Kobako Double: 282 notes
+Shikomi Double: 396 notes
+Another Double: 587 notes
+
+---------------
+
+Across the Boarders - B.BANDJ
+Genre: Hip-Hop
+BPM: 91
+
+Kobako Single: 193 notes
+Shikomi Single: 340 notes
+
+Kobako Double: 193 notes
+Shikomi Double: 340 notes
+
+---------------
+
+Alienhead - RAM
+Genre: Rave
+BPM: 150
+
+Kobako Single: 290 notes
+Shikomi Single: 365 notes
+
+Kobako Double: 369 notes
+Shikomi Double: 428 notes
+
+---------------
+
+Analyze - B.BANDJ
+Genre: Hip-Hop
+BPM: 93
+
+Kobako Single: 133 notes
+Shikomi Single: 291 notes
+
+Kobako Double: 211 notes
+Shikomi Double: 291 notes
+
+---------------
+
+Beginning of Life (The Ground Pulse Mix) - Quadra
+Genre: Techno
+BPM: 140
+
+Kobako Single: 132 notes
+Shikomi Single: 412 notes
+Another Single: 519 notes
+
+Kobako Double: 133 notes
+Shikomi Double: 495 notes 
+Another Double: 560 notes
+
+---------------
+
+Deep Clear Eyes (The Bleeping Up Mix) - Quadra
+Genre: Drum'N'Bass Mix
+BPM: 163
+
+Kobako Single: 327 notes
+Shikomi Single: 392 notes
+Another Single: 437 notes
+
+Kobako Double: 386 notes
+Shikomi Double: 392 notes
+Another Double: 437 notes
+
+Note: No timing issues, unlike the original and its another.
+
+---------------
+
+DJ-Battle (Jodler Mix) - dj nagureo remixed by DJ Simon
+Genre: DJ Battle
+BPM: 130-240
+
+Kobako Single: 110 notes
+Shikomi Single: 210 notes
+
+Kobako Double: 110 notes
+Shikomi Double: 210 notes
+
+Note: This is a remix of a practice song from Beatmania 2nd Mix. In this 
+	game, it can be quite challenging. Watch out for the BPM changes.
+
+---------------
+
+Do You Love Me? (Final Edit) - reo-nagumo arranged by Tatsuya Nishiwaki 
+Genre: Soul
+BPM: 100
+
+Kobako Single: 165 notes
+Shikomi Single: 192 notes
+Another Single: 285 notes
+
+Kobako Double: 185 notes
+Shikomi Double: 193 notes
+Another Double: 287 notes
+
+---------------
+
+e-motion (romantic style) - e.o.s. remixed by dj TAKA
+Genre: Trance
+BPM: 153
+
+Kobako Single: 155 notes
+Shikomi Single: 265 notes
+
+Kobako Double: 199 notes
+Shikomi Double: 274 notes
+
+---------------
+
+era (nostalmix) - TaQ
+Genre: Drum'N'Bass
+BPM: 89-180
+
+Kobako Single: 420 notes
+Shikomi Single: 538 notes
+Another Single: 746 notes
+
+Kobako Double: 436 notes
+Shikomi Double: 948 notes
+Another Double: 1186 notes
+
+Note: EXTREMELY HARD another.
+
+---------------
+
+Greed Eater (Deal With It Mix) - Dust Fathers remixed by Slake feat. R.C.
+Genre: Breakbeats
+BPM: 150
+
+Kobako Single: 192 notes
+Shikomi Single: 284 notes
+
+Kobako Double: 192 notes
+Shikomi Double: 284 notes
+
+---------------
+
+Guilty - D.J.Setup
+Genre: Techno
+BPM: 148
+
+Kobako Single: 291 notes
+Shikomi Single: 504 notes
+Another Single: 725 notes
+
+Kobako Double: 302 notes
+Shikomi Double: 499 notes
+Another Double: 695 notes
+
+---------------
+
+It's So Good - Asletics
+Genre: R&B
+BPM: 88-95
+
+Kobako Single: 252 notes
+Shikomi Single: 305 notes
+
+Kobako Double: 258 notes
+Shikomi Double: 305 notes
+
+---------------
+Jam Jam Reggae (Jam Jam Mix) - jam master '73 remixed by good-cool
+Genre: Reggae
+BPM: 90-180
+
+Kobako Single: 145 notes
+Shikomi Single: 203 notes
+
+Kobako Double: 179 notes
+Shikomi Double: 203 notes
+
+---------------
+
+Kouyou - youhei
+Genre: J-Soul
+BPM: 118
+
+Kobako Single: 116 notes
+Shikomi Single: 127 notes
+
+Kobako Double: 142 notes 
+Shikomi Double: 156 notes
+
+Note: Ended up in pop'n music 12.
+
+---------------
+
+Love So Groovy (Sleep Mix) - Lovemints remixed by DJ Simon
+Genre: Experimental
+BPM: 90-240
+
+Kobako Single: 174 notes 
+Shikomi Single: 204 notes
+
+Kobako Double: 176 notes
+Shikomi Double: 236 notes
+
+Note: Watch out for the 240 BPM note at the end of all difficulties.
+
+---------------
+
+Love's Theme of Beatmania - DJ FX arranged by Yukihiro Fukutomi
+Genre: Crossover
+BPM: 130
+
+Kobako Single: 155 notes
+Shikomi Single: 398 notes
+
+Kobako Double: 357 notes
+Shikomi Double: 508 notes
+
+Note: The Kobako Double chart here is different from the one in
+	Beatmania CORE REMIX.
+
+---------------
+
+Overdoser (Flotage Mix) - MIRAK remixed by Slake
+Genre: Techno
+BPM: 136
+
+Kobako Single: 204 notes
+Shikomi Single: 283 notes
+Another Single: 421 notes
+
+Kobako Double: 243 notes
+Shikomi Double: 283 notes
+Another Double: 421 notes
+
+Note: Funky remix. Beware the ending on Another.
+
+---------------
+
+R5 - tiger YAMATO with Ultrabeatbox
+Genre: Rave
+BPM: 180 (it may say 179 on some modes)
+
+Kobako Single: 301 notes
+Shikomi Single: 487 notes
+Another Single: 647 notes
+
+Kobako Double: 476 notes
+Shikomi Double: 594 notes
+Another Double: 793 notes
+
+Note: EXTREMELY hard another.
+
+---------------
+
+Reincarnation - dj TAKA
+Genre: Trance
+BPM: 144
+
+Kobako Single: 400 notes
+Shikomi Single: 525 notes
+Another Single: 643 notes
+
+Kobako Double: 401 notes 
+Shikomi Double: 525 notes
+Another Double: 637 notes
+
+Note: Hard but fun another.
+
+---------------
+
+Rock the Beatz - Asletics
+Genre: Mixture
+BPM: 100-122
+
+Kobako Single: 210 notes
+Shikomi Single: 332 notes
+Another Single: 422 notes
+
+Kobako Double: 245 notes
+Shikomi Double: 332 notes
+Another Double: 422 notes
+
+---------------
+
+Salamander Beat Crush Mix (Crash Mix) - nite system remixed by Decades
+Genre: Konamix
+BPM: 165
+
+Kobako Single: 235 notes 
+Shikomi Single: 336 notes
+
+Kobako Double: 234 notes 
+Shikomi Double: 334 notes
+
+Note: Beware the ending on Shikomi.
+
+---------------
+
+Ska a Go Go (Skacore Mix) - The Bald Head arranged by Ken Matsumoto
+Genre: Skacore
+BPM: 170
+
+Kobako Single: 244 notes
+Shikomi Single: 394 notes
+Another Single: 417 notes
+
+Kobako Double: 306 notes
+Shikomi Double: 394 notes
+Another Double: 417 notes
+
+---------------
+
+Something Special - RAM
+Genre: Hardcore Drum'N'Bass
+BPM: 191
+
+Kobako Single: 276 notes
+Shikomi Single: 432 notes
+Another Single: 591 notes
+
+Kobako Double: 408 notes
+Shikomi Double: 432 notes
+Another Double: 592 notes
+
+---------------
+
+Stay With Me (Big Beat Mix) - dj nagureo
+Genre: Big Beat
+BPM: 126
+
+Kobako Single: 236 notes
+Shikomi Single: 350 notes
+Another Single: 447 notes
+
+Kobako Double: 315 notes
+Shikomi Double: 397 notes
+Another Double: 433 notes
+
+---------------
+
+U Gotta Groove (Future Latin Mix) - dj nagureo remixed by Tomosuke
+Genre: Future Jazz
+BPM: 130
+
+Kobako Single: 183 notes
+Shikomi Single: 274 notes
+
+Kobako Double: 221 notes
+Shikomi Double: 274 notes
+
+Note: All the charts contain an error: One of the chords in measure
+	26 contains a misplaced note. You have to hit the note as it
+	appears to get a Flashing Great on it.
+
+---------------
+
+
+d. From Beatmania III
+---------------------
+
+12.4 - RAM
+Genre: Tekno
+BPM: 152
+
+Kobako Single: 285 notes
+Shikomi Single: 420 notes
+Another Single: 469 notes
+
+Foot Mode Single: 420 notes
+
+Kobako Double: 297 notes
+Shikomi Double: 423 notes
+
+Foot Mode Double: 423 notes
+
+---------------
+
+2Tone - RAM
+Genre: Jungle
+BPM: 184
+
+Kobako Single: 148 notes
+Shikomi Single: 211 notes
+
+Kobako Double: 211 notes
+
+Note: Both Double Mode charts are the same.
+
+---------------
+
+All is Vanity - good-cool
+Genre: Drum'N'Bass
+BPM: 157
+
+Kobako Single: 221 notes
+Shikomi Single: 306 notes
+Another Single: 394 notes
+
+Kobako Double: 365 notes
+Shikomi Double: 468 notes
+
+Note: The Shikomi charts in this game are different in Beatmania 
+	the Final (NOT Beatmania III the Final).
+
+---------------
+
+ASK - RAM
+Genre: Rave
+BPM: 152
+
+Kobako Single: 275 notes
+Shikomi Single: 309 notes
+Another Single: 400 notes
+
+Kobako Double: 307 notes
+
+Note: Both Double Mode charts are the same.
+
+---------------
+
+Badboy Flygirl - U.M.E.D.Y.
+Genre: Hip-Hop
+BPM: 105
+
+Kobako Single: 299 notes
+Shikomi Single: 527 notes
+
+Kobako Double: 470 notes 
+Shikomi Double: 528 notes
+
+---------------
+
+Cyber Girl - good-cool
+Genre: Rave
+BPM: 133
+
+Kobako Single: 411 notes
+Shikomi Single: 453 notes
+Another Single: 542 notes
+
+Kobako Double: 594 notes 
+Shikomi Double: 626 notes
+Another Double: 718 notes
+
+Note: Has quite a few jackhammers and is tricky.
+
+---------------
+
+Devoted to You - DJ nagureo feat. Robbie Danzie
+Genre: 80's Soul
+BPM: 108
+
+Kobako Single: 185 notes
+Shikomi Single: 266 notes
+
+Kobako Double: 276 notes
+
+Note: Both Double Mode charts are the same. 
+
+---------------
+
+East Meets West - RAM
+Genre: Trance
+BPM: 155
+
+Kobako Single: 220 notes
+Shikomi Single: 290 notes
+Another Single: 369 notes
+
+Kobako Double: 290 notes 
+
+Note: Both Double Mode charts are the same.
+
+---------------
+
+Feeling of Love - Youhei Shimizu
+Genre: House
+BPM: 136
+
+Kobako Single: 265 notes
+Shikomi Single: 414 notes
+
+Kobako Double: 409 notes
+Shikomi Double: 511 notes
+
+---------------
+
+Jam & Marmalade - FinalOffset
+Genre: Warp House
+BPM: 145
+
+Kobako Single: 361 notes
+Shikomi Single: 456 notes
+Another Single: 512 notes
+
+Kobako Double: 456 notes
+
+Note: All Double charts are the same. The another here is not 
+	the same as the one in Beatmania the Final.
+
+---------------
+
+Keep On Liftin' - DJ nagureo
+Genre: Jazz Hiphop
+BPM: 100
+
+Kobako Single: 215 notes
+Shikomi Single: 317 notes
+Another Single: 380 notes
+
+Kobako Double: 383 notes
+
+Note: All the Double charts are the same.
+
+---------------
+
+Live Together - good-cool
+Genre: House
+BPM: 125
+
+Kobako Single: 224 notes
+Shikomi Single: 446 notes
+
+Foot Mode Single: 452 notes
+
+Kobako Double: 442 notes
+Shikomi Double: 630 notes
+
+Foot Mode Double: 630 notes
+
+---------------
+
+Mnemoniq - Youhei Shimizu
+Genre: Jazz House
+BPM: 111
+
+Kobako Single: 272 notes
+Shikomi Single: 376 notes
+
+Kobako Double: 463 notes
+Shikomi Double: 512 notes
+
+Note: Ending theme of Beatmania III. Not hard.
+
+---------------
+
+Overwhelming - good-cool
+Genre: Eurobeat
+BPM: 122
+
+Kobako Single: 211 notes
+Shikomi Single: 327 notes
+
+Kobako Double: 324 notes
+Shikomi Double: 436 notes
+
+---------------
+
+Qingdao - DJ nagureo
+Genre: Spiritual
+BPM: 130
+
+Kobako Single: 258 notes
+Shikomi Single: 357 notes
+Another Single: 452 notes
+
+Foot Mode Single: 357 notes
+
+Kobako Double: 357 notes
+
+Foot Mode Double: 357 notes
+
+Note: All Double charts are the same.
+
+---------------
+
+Rest My Mind - DJ nagureo feat. Doublecheese
+Genre: Hip-Hop
+BPM: 94
+
+Kobako Single: 141 notes
+Shikomi Single: 259 notes
+
+Kobako Double: 276 notes
+ 
+Note: All Double charts are the same.
+
+---------------
+
+Shake It Down - good-cool
+Genre: J-Pop
+BPM: 125
+
+Kobako Single: 310 notes
+Shikomi Single: 481 notes
+
+Kobako Double: 461 notes
+Shikomi Double: 684 notes
+
+---------------
+
+Stay With Me - DJ nagureo feat. Robbie Danzie
+Genre: Garage House
+BPM: 126
+
+Kobako Single: 219 notes
+Shikomi Single: 296 notes
+Another Single: 320 notes
+
+Kobako Double: 323 notes
+
+Note: Not related to the Stay With Me in Core Remix. All
+	Double charts are the same.
+
+---------------
+
+Tondemo Paradise - thelonious monkees
+Genre: Ska
+BPM: 145
+
+Kobako Single: 171 notes
+Shikomi Single: 277 notes
+
+Kobako Double: 257 notes
+Shikomi Double: 374 notes
+
+---------------
+
+Trust No One - thelonious monkees
+Genre: Acid Jazz
+BPM: 170
+
+Kobako Single: 163 notes
+Shikomi Single: 249 notes
+
+Kobako Double: 228 notes
+Shikomi Double: 248 notes
+
+---------------
+
+TwinBee (Generation X) - FinalOffset
+Genre: Eurobeat
+BPM: 168-177
+
+Kobako Single: 233 notes
+Shikomi Single: 380 notes
+Another Single: 485 notes
+
+Kobako Double: 438 notes
+Shikomi Double: 538 notes
+
+---------------
+
+
+e. From Beatmania Complete MIX
+------------------------------
+
+"*Note: A lot of songs in this category do not have their own
+	Shikomi charts. This means that you will play the same
+	chart regardless of the mode you're playing. These songs
+	will just have "Single" and "Double" notecounts.
+
+---------------
+
+20, November (Hard Mix) - dj nagureo
+Genre: Hard House
+BPM: 130
+
+Kobako Single: 197 notes
+Shikomi Single: 195 notes
+Another Single: 268 notes
+
+Kobako Double: 247 notes
+Shikomi Double: 257 notes
+
+Note: Not much different from the original. May be easier.
+
+---------------
+
+20, November (Radio Edit) - dj nagureo
+Genre: House
+BPM: 130
+
+Kobako Double: 352 notes
+Shikomi Double: 352 notes
+Another Double: 403 notes
+
+Note: Only available on Double. Replaces 20, November (Single Mix).
+
+---------------
+
+
+20, November (Single Mix) - dj nagureo
+Genre: House
+BPM: 130
+
+Kobako/Shikomi Single: 301 notes
+Another Single: 332 notes
+
+Note: Only available in 1P. Replaces 20, November (Radio Edit). No
+	distinct Shikomi chart - it's the same in both Kobako and
+	Shikomi.
+
+---------------
+
+2 Gorgeous 4U - Prophet-31
+Genre: Breakbeats
+BPM: 150
+
+Single: 82 notes
+
+Note: This song has no Double or Shikomi chart. Both modes use the 
+	same chart. Not available in Double Mode.
+
+---------------
+
+Acid Bomb - DJ FX
+Genre: Hard Tekno
+BPM: 140
+
+Kobako/Shikomi Single: 334 notes
+Another Single: 405 notes
+
+Kobako/Shikomi Double: 568 notes
+Another Double: 647 notes
+
+Note: This song ALSO doesn't have its own Shikomi charts.
+
+---------------
+
+Area Code - nouvo nude
+Genre: Digi-Rock
+BPM: 112
+
+Single: 215 notes
+
+Double: 218 notes
+
+Note: Hey, guess what! No distinct Shikomi charts!
+
+---------------
+
+Attack the Music - DJ FX
+Genre: Hard Techno
+BPM: 140
+
+Kobako Single: 323 notes
+Another Single: 376 notes
+
+Double: 378 notes
+
+Note: You probably get the idea by now.
+
+---------------
+
+Beginning-of-life - Quadra
+Genre: Ambient
+BPM: 110
+
+Single: 80 notes
+
+Double: 115 notes
+
+Note: Probably the easiest song in the game.
+
+---------------
+
+Believe Again - Emotion of Sound feat. miryam
+Genre: 80's J-Pop
+BPM: 130
+
+Single: 159 notes
+
+Double: 289 notes
+
+---------------
+
+Believe Again (English Version) - e.o.s. remixed by DJ nagureo
+Genre: Dance Pop
+BPM: 130
+
+Single: 216 notes
+
+Foot Mode Single: 217 notes
+
+Double: 345 notes
+
+Foot Mode Double: 345 notes
+
+---------------
+
+Believe Again (Hyper Mega Mix) - e.o.s. remixed by DJ nagureo feat. miryam
+Genre: J-Dance Pop
+BPM: 130
+
+Single: 216 notes
+
+Double: 343 notes
+
+---------------
+
+Deep Clear Eyes - Quadra
+Genre: Drum'N'Bass Mix
+BPM: 155
+
+Kobako Single: 236 notes
+Shikomi Single: 276 notes
+Another Single: 294 notes
+
+Foot Mode Single: 276 notes
+
+Kobako Double: 266 notes
+Shikomi Double: 306 notes
+Another Double: 296 notes
+
+Note: There is no Foot Mode Double chart.
+
+---------------
+
+Do You Love Me? - reo-nagumo
+Genre: Ballad
+BPM: 100
+
+Single: 155 notes
+
+Double: 252 notes
+
+Note: This song used to have free zones, but lost them after 2nd Mix.
+	Free zones were areas in which you could scratch as much or as
+	little as you wanted, as long as you hit the marked scratches in
+	the free zone.
+
+---------------
+
+e-motion - e.o.s.
+Genre: Rave
+BPM: 140-145
+
+Single: 96 notes
+
+Double: 123 notes
+
+Note: Has some serious timing issues. Not as bad as Gambol. Not very 
+	loud.
+
+---------------
+
+e-motion (2nd Mix) - e.o.s.
+Genre: Rave
+BPM: 140-145
+
+Single: 148 notes
+
+Double: 241 notes
+
+Note: Doesn't have the timing issues of the original.
+
+---------------
+
+Find Out - nouvo nude
+Genre: Soul
+BPM: 100
+
+Single: 95 notes
+
+Double: 95 notes
+
+---------------
+
+Greed Eater - Dust Fathers
+Genre: Breakbeats
+BPM: 112
+
+Kobako Double: 73 notes
+
+Note: Not available in 1P Mode.
+
+---------------
+
+Jam Jam Reggae - jam master '73
+Genre: Reggae
+BPM: 90
+
+Single: 62 notes
+
+Double: 78 notes
+
+Note: Has timing issues a la e-motion and Gambol.
+
+---------------
+
+Jam Jam Reggae (Funky Jam Cookie Mix) - Crunky Boy
+Genre: Reggae Funky Mix
+BPM: 90
+
+Kobako Single: 125 notes
+Shikomi Single: 157 notes
+
+Double: 178 notes
+
+Note: Has timing issues a la e-motion and Gambol.
+
+---------------
+
+La Bossanova de Fabienne - staccato two-F
+Genre: Bossa Groove
+BPM: 143
+
+Single: 213 notes
+
+Kobako Double: 277 notes
+Shikomi Double: 341 notes
+
+Note: Has timing issues.
+
+---------------
+
+Life Goes On - Quadra
+Genre: Ambient
+BPM: 124
+
+Kobako Single: 72 notes
+Shikomi Single: 86 notes
+
+Double: 86 notes
+
+---------------
+
+Love So Groovy - Lovemints
+Genre: Soul
+BPM: 141
+
+Kobako Single: 151 notes
+Shikomi Single: 169 notes
+
+Note: Not available on Double. Replaces the 12Inch Version. Has
+	timing issues.
+
+---------------
+
+Love So Groovy (12Inch Version) - Lovemints
+Genre: Soul
+BPM: 141
+
+Kobako Double: 192 notes
+Shikomi Double: 227 notes
+
+Note: Not available in 1P Mode. Replaces the original.
+
+---------------
+
+Love So Groovy (Nite's After Luv Mix) - nite system
+Genre: House Spiritual Mix
+BPM: 131
+
+Single: 249 notes
+
+Double: 430 notes
+
+---------------
+
+Luv To Me - Third-Mix miryam reo yoshimori
+Genre: Eurobeat
+BPM: 154
+
+Kobako Single: 214 notes
+Shikomi Single: 312 notes
+
+Kobako Double: 271 notes
+Shikomi Double: 384 notes
+
+---------------
+
+Luv To Me (English Version) - Third-Mix
+Genre: Eurobeat
+BPM: 154
+
+Kobako Single: 214 notes
+Shikomi Single: 312 notes
+Another Single: 331 notes
+
+Kobako Double: 271 notes
+Shikomi Double: 384 notes
+Another Double: 392 notes
+
+Note: This is the same thing as the original version.
+
+---------------
+
+Metal Gear Solid Main Theme - Espacio Brothers
+Genre: Big Beat Mix
+BPM: 140
+
+Single: 179 notes
+
+Double: 182 notes
+
+---------------
+
+Nine Seconds - nouvo nude
+Genre: Digital Funk
+BPM: 97
+
+Single: 192 notes
+
+Double: 191 notes
+
+---------------
+
+Overdoser (Ambient Mix) - MIRAK
+Genre: Techno
+BPM: 134
+
+Double: 224 notes
+
+Note: Not available in 1P Mode. Replaces Romo Mix.
+
+---------------
+
+Overdoser (Driving Dub Mix) - Quadra
+Genre: Minimal Techno
+BPM: 138
+
+Single: 340 notes
+
+Foot Mode Single: 340 notes
+
+Double: 656 notes
+
+Foot Mode Double: 656 notes
+
+Note: No timing problems...or turntable scratches.
+
+---------------
+
+Overdoser (Romo Mix) - MIRAK
+Genre: Techno
+BPM: 132
+
+Single: 164 notes
+
+Note: Has timing issues a la e-motion and Gambol. No double chart. 
+	Replaces the Ambient Mix.
+
+---------------
+
+Queen's Jamaica - Crunky Boy feat. Muhammad
+Genre: Reggae
+BPM: 94
+
+Kobako Single: 140 notes
+Shikomi Single: 189 notes
+
+Double: 219 notes
+
+---------------
+
+Quick Master - Youhei Shimizu
+Genre: J-Tekno
+BPM: 145
+
+Single: 178 notes
+
+Double: 225 notes
+
+---------------
+
+Salamander Beat Crush Mix - nite system
+Genre: Konamix
+BPM: 134
+
+Single: 171 notes
+
+Double: 177 notes
+
+Note: Has minor timing issues.
+
+---------------
+
+S.D.Z. - DJ Mazinger feat. Muhammad
+Genre: Hip-Hop
+BPM: 100
+
+Kobako Single: 152 notes
+Shikomi Single: 168 notes
+
+Double: 175 notes
+
+---------------
+
+Ska a Go Go - The Bald Head
+Genre: Ska
+BPM: 144-160
+
+Kobako Single: 215 notes
+Shikomi Single: 359 notes
+
+Kobako Double: 394 notes
+Shikomi Double: 514 notes
+
+---------------
+
+Stop Violence! - Herbie Hammock and His Band
+Genre: Funky Jazz Band
+BPM: 113
+
+Single: 123 notes
+
+Double: 191 notes
+
+Note: Has timing problems.
+
+---------------
+
+Super Highway - nouvo nude
+Genre: Drum'N'Bass
+BPM: 160
+
+Single: 395 notes
+
+Double: 452 notes
+
+---------------
+
+Tokai - DJ Mazinger
+Genre: Japanese Hip-Hop
+BPM: 97
+
+Kobako Single: 135 notes
+Shikomi Single: 171 notes
+Another Single: 211 notes
+
+Kobako Double: 171 notes
+Shikomi Double: 206 notes
+Another Double: 249 notes
+
+---------------
+
+Tribe Groove - nite system
+Genre: World Groove
+BPM: 126
+
+Single: 275 notes
+
+Double: 259 notes
+
+Note: You should know the deal by now. Timing issues.
+
+---------------
+
+U Gotta Groove - dj nagureo
+Genre: Hip-Hop
+BPM: 94-100
+
+Single: 80 notes
+
+Double: 104 notes
+
+---------------
+
+U Gotta Groove (Triple Mazin Dub) - DJ Mazinger
+Genre: Hip-Hop
+BPM: 94
+
+Single: 143 notes
+
+Double: 260 notes
+
+---------------
+
+Wild I/O - nouvo nude
+Genre: House
+BPM: 130
+
+Kobako Single: 160 notes
+Shikomi Single: 226 notes
+
+Double: 211 notes
+
+---------------
+
+
+f. From Beatmania Complete MIX 2
+--------------------------------
+
+22Dunk - Slake
+Genre: Techno
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+Note: All notecharts are different from their Beatmania IIDX counterparts.
+
+---------------
+
+321 Stars - DJ Simon
+Genre: Techno Pop
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Boa Boa Lady (Jamming-Mix) - DJ nagureo
+Genre: Reggae
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Chain - RAM
+Genre: Rave
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Come and Get It - N.A.R.D.
+Genre: R&B
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Crymson - RAM
+Genre: Digital Hardcore
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Cycle - Slake
+Genre: Minimal
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Deep In You - DJ nagureo
+Genre: Dance Pop
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Denim - Slake
+Genre: Techno
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Destruction - MPM
+Genre: Big Beat
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Disco Dancing - DJ Simon
+Genre: Disco
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+Note: From Beatmania Club Mix.
+
+---------------
+
+Drunk Monky - DJ Oddball
+Genre: Minimal
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Finding a New World - Utumi
+Genre: Future Jazz
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Freakout - Asletics
+Genre: Hip-Hop
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Game - Slake
+Genre: Cyber Funk
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+Note: From Beatmania Club Mix.
+
+---------------
+
+Genom Screams - L.E.D. Light
+Genre: Trance
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Hell Scaper - L.E.D.-G
+Genre: Gabbah
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Higher - Slake
+Genre: Latinaires Beats
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Hunting for You - Togo Project feat. Megu & Scotty D.
+Genre: R&B
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+I Live Just 4U - MPM
+Genre: R&B
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Kakattekonkai - Bebe
+Genre: Cube Beat
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Keep On Movin' - N.M.R
+Genre: Dance Pop
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+LINN1999 - DJ nagureo
+Genre: Harenti Techno
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Logical Dash - dj TAKA
+Genre: Happy
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+
+---------------
+
+Manmachine Plays Jazz - Mikio Endo
+Genre: Jazz Electro
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Mask - RAM
+Genre: Breakbeat
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+Note: From Beatmania Club Mix.
+
+---------------
+
+Moment - DJ nagureo
+Genre: R&B
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Nofia - Delaware feat. Ike Nelson
+Genre: Hip-Hop
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+PARANOiA MAX (Dirty Mix) - 190
+Genre: Jungle
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Peace-Out - DJ nagureo
+Genre: Deep House
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Popcorn - DJ Watarai
+Genre: Hip-Hop
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Prince on a Star - Spiritual Ride
+Genre: Alternative Rock
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+R3 - tiger YAMATO
+Genre: Rave
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Release Your Mind - TaQ
+Genre: Trance
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Rugged Ash - Symphonic Defoggers
+Genre: Future Jazz
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Snatcher (Dual Vacuum Mix) - FinalOffset
+Genre: Digi-Rock
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+Note: From Beatmania Club Mix.
+
+---------------
+
+Soda - Slake
+Genre: Drum'N'Bass
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+
+Spaced Out - Enola Quintet
+Genre: Lounge
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Sparker - Slake
+Genre: Minimal
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+System - RAM
+Genre: Electronica
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Take a Ride - Larry & Luisa Dunn
+Genre: Soul Hip-Hop
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Take Control - Larry & Luisa Dunn
+Genre: 70's Soul
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+TetraQ - TaQ
+Genre: Acid Beats
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+The Fall - Aki
+Genre: Progressive
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Thrash Traxx - Aki
+Genre: Progressive
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Tokyo European Espresso - FinalOffset
+Genre: Techno Classic
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+Note: From Beatmania Club Mix.
+
+---------------
+
+Tribe Sonic - Aki
+Genre: Hard House
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Turning the Motor Over - Delaware feat. Jeff Coote
+Genre: Latin Ska
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+VIVA2000 (-27 Mix) - DJ nagureo
+Genre: Latin
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+Note: From Beatmania Club Mix
+
+---------------
+
+
+Watchingout - DJ nagureo
+Genre: Mods
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Weighted Action - Deep Emotion
+Genre: Hard House
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+---------------
+
+Zanzibar - Delaware
+Genre: Tribal
+
+Kobako Single: 
+Shikomi Single: 
+Another Single: 
+
+Kobako Double: 
+Shikomi Double: 
+Another Double:
+
+Note: Another has more scratches.
+
+---------------
+
+
+g. Beatmania Complete MIX 2 Another Remixes
+-------------------------------------------
+
+*The songs in this list are extra anothers from BMCM2. You can only access
+	them in Shikomi or Tsunagi.
+
+---------------
+
+20, November another
+BPM: 130
+Single: 391 notes
+Double: 472 notes
+
+---------------
+
+22Dunk another
+BPM: 135
+Single: 325 notes
+Double: 329 notes
+
+---------------
+
+Attack the Music (49 Music Mix)
+BPM: 140
+Single: 397 notes
+Double: 403 notes
+
+---------------
+
+Boa Boa Lady another
+BPM: 90
+Single: 375 notes
+Double: 406 notes
+
+---------------
+
+Chain (Connection Mix)
+BPM: 152
+Single: 375 notes
+Double: 377 notes
+
+---------------
+
+Crymson (Scarlet Mix)
+BPM: 240
+Single: 503 notes
+Double: 520 notes
+
+----------------
+
+Deep Clear Eyes another
+BPM: 155
+Single: 294 notes
+Double: 296 notes
+
+----------------
+
+Denim (Electro Mix)
+BPM: 150
+Single: 440 notes
+Double: 535 notes
+
+----------------
+
+Do You Love Me? (Soft Landing Mix)
+BPM: 100-200
+Single: 392 notes
+Double: 416 notes
+
+----------------
+
+Freakout another
+BPM: 101
+Single: 268 notes
+Double: 267 notes
+
+----------------
+
+Genom Screams (Spiritual Mix)
+BPM: 150
+Single: 553 notes
+Double: 591 notes
+
+----------------
+
+Hell Scaper (Slashing Mix)
+BPM: 190-200
+Single: 494 notes
+Double: 517 notes
+
+----------------
+
+Hunting For You another
+BPM: 105
+Single: 280 notes
+Double: 367 notes
+
+----------------
+
+La Bossanova de Fabienne (Bossa Bossa Mix)
+BPM: 143
+Single: 314 notes
+Double: 330 notes
+
+Note: Has timing issues, but not as bad as the original.
+
+-----------------
+
+Love So Groovy another
+BPM: 141
+Single: 267 notes
+Double: 323 notes
+
+-----------------
+
+Luv To Me (Disco Mix) another
+BPM: 154
+Single: 453 notes
+Double: 502 notes
+
+-----------------
+
+PARANOiA MAX (Funky Bleep Mix)
+BPM: 190
+Single: 333 notes
+Double: 333 notes
+
+-----------------
+
+Prince On a Star another
+BPM: 145
+Single: 491 notes
+Double: 726 notes
+
+-----------------
+
+R3 another
+BPM: 157
+Single: 451 notes
+Double: 472 notes
+
+-----------------
+
+Ska a Go Go (Perfect Mix)
+BPM: 144-160
+Single: 616 notes
+Double: 616 notes
+
+-----------------
+
+Super Highway (Super Subway Mix)
+BPM: 160
+Single: 483 notes
+Double: 483 notes
+
+-----------------
+
+Tokai another
+BPM: 97
+Single: 211 notes
+Double: 249 notes
+
+
+------------------------------------------------------------------------------
+8. SECRETS
+------------------------------------------------------------------------------
+
+a. Sozai Mode
+-------------
+
+In Sozai Mode, you get three stages. You cannot choose Kobako Mode charts,
+BUT you can choose from all the songs for your first and second stages.
+Also, you can do something you can't do in regular play - you can play
+the same song more than once. You could play the same song three times if
+you wanted to. Basically, this mode lets you try to improve your scores on 
+Shikomi Mode without the danger of failing out and losing the game.
+
+You have to play with a floppy disk to unlock Sozai Mode, and you have to
+pass certain songs to do it. Here's the list of songs you need to clear to 
+unlock Sozai Mode. What grade or score you get on each one does not matter, 
+you just have to clear them on Kobako or Shikomi modes - not Tsunagi.
+
+FROM BEATMANIA COMPLETE MIX:
+
+Quick Master
+
+
+FROM BEATMANIA COMPLETE MIX 2:
+
+Prince On a Star
+PARANOiA MAX (Dirty Mix)
+22DUNK
+R3
+Keep On Movin'
+
+
+FROM BEATMANIA COMPLETE MIX 2 ANOTHERS:
+
+*Note: You must do these on Shikomi mode, since they're not available in
+Kobako mode.
+
+Luv To Me (Disco Mix) another
+Boa Boa Lady another
+
+
+FROM BEATMANIA CORE REMIX:
+
+R5
+era (nostalmix)
+Reincarnation
+
+
+FROM BEATMANIA 7th MIX:
+
+Afronova Primeval
+
+
+FROM BEATMANIA THE FINAL:
+
+Kiss Kiss Kiss
+Quickening
+Jet World
+VOIDDD
+Dance the Night Away
+West Shinjuku Cleaning Tune
+Candy (Star)
+Dr.LOVE
+Special Energy
+Cloudy Music (unlockable)
+Baila! Baila!
+Happy Man
+Implantation (unlockable)
+Gamelan de Couple
+la brise d'ete
+Daikenkai
+Brilliant 2U
+Gentle Stress
+Gambol
+
+Yes, you must play VOIDDD and Gambol, the loudest songs in the game. I
+don't know why. Also, in order to play Sozai Mode each time you play the
+game, you must use your floppy disk with scores from all the songs listed
+above. It is not permanently unlocked on the machine for all to play.
+Also, YOU MUST UNLOCK THE HIDDEN SONGS IF YOU WANT TO GET SOZAI MODE!
+
+
+b. Unlocking Songs
+------------------
+
+Songs cannot be unlocked by just playing over and over. There are only a
+few unlockable songs, and you'll have to have your arcade manager or
+whoever maintains the machine input a code to unlock the songs. You'll
+know the songs are available if you see a little alien icon on the lower
+left-hand side of the title screen.
+
+*NOTE: IF YOU WANT SOZAI MODE, YOU NEED TO UNLOCK THE SONGS FIRST!*
+
+Here's the code:
+
+In Test Mode, go to the Color Check screen. Hold down the 2P Start button,
+and press keys 2, 2, 1, 10, 9, 3, 1, 4, 1, and 6. Exit Color Check - if
+you see an asterisk, you've entered the code correctly.
+
+By the way, the keys are numbered from left to right (O represents the
+turntable):
+
+-----------------
+ 2 4      7 9
+1 3 5 O  6 8 10 O
+-----------------
+
+And here's what songs you get:
+
+Miracle Moon
+The Least 100sec
+Cloudy Music
+Retrofuture
+COREDESAT
+Implantation
+
+
+c. Ending Themes
+----------------
+
+Depending on what game the last song you play is from, you'll get a
+different ending theme and credits video when you complete your set of
+songs. Here's the list:
+
+Beatmania the Final: One Seek
+
+Beatmania 7th Mix: Lying on the Bench (if your last song was from
+	6th Mix) or Monotone (if it was from 7th Mix)
+
+Beatmania CORE REMIX: Beatmania CORE REMIX ending theme
+
+Beatmania III: Mnemoniq
+
+Beatmania Complete Mix: Love's Theme of Beatmania
+
+Beatmania Complete MIX 2: Beatmania 4th Mix Ending (if your last song
+	was from 4th Mix, 5th Mix, or CM2) or Retrofuture (Club Mix).
+
+It is also possible to get La Bossanova de Fabienne as your ending song.
+This is rare, though, and only playing Ain't It Good, Body, and La 
+Bossanova de Fabienne seem to trigger it.
+
+You will get One Seek more often than not on Tsunagi mode regardless of
+the songs you play.
+
+The only ending you get in Sozai Mode is the Game Over screen.
+
+
+------------------------------------------------------------------------------
+9. SPECIAL THANKS
+------------------------------------------------------------------------------
+
+Special Thanks To:
+
+Konami - for creating the awesome Beatmania and Beatmania IIDX series.
+
+CJayC and GameFAQs, for hosting my guide.
+
+------------------------------------------------------------------------------
+10. CONTACT INFORMATION - PART DEUX
+------------------------------------------------------------------------------
+
+Contact me at coredesat@outphase.com with any questions, comments, 
+or suggestions.
+
+------------------------------------------------------------------------------
+11. COPYRIGHT
+------------------------------------------------------------------------------
+
+This guide Copyright (c) 2005-2006 William Weaver.
+
+Beatmania, Beatmania IIDX, Beatmania III, and Beatmania the Final are
+registered trademarks of Konami Computer Entertainment Japan.
+
+
+***DISCLAIMER***
+----------------
+
+This guide may NOT be posted without my permission anywhere other than the 
+following sites:
+
+www.gamefaqs.com and all its affiliates (Gamespot, etc.)
+www.ign.com
+www.neoseeker.com
+www.ramsites.net
+Any website run by me
+
+You may not modify my FAQ and present it as your own work, and you may not
+profit from my FAQ - if I allow you to post my FAQ, it must go in a free
+section of your website, because profiting from others' work without their
+consent is just plain wrong.
+
+If you find that this FAQ is on a site not on the above list, do not
+hesitate to contact me at coredesat@outphase.com so I can yell at those
+responsible.
+Restore Page
